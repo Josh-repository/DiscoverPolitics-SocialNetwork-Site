@@ -1,0 +1,82 @@
+RewriteEngine On
+RewriteRule ^([a-zA-Z0-9_-]+)$ profile.php?profile_username=$1
+RewriteRule ^([a-zA-Z0-9_-]+)/$ profile.php?profile_username=$1
+
+RewriteRule ^a.([a-zA-Z0-9_-]+)$ indexa.php?profile_partyname=$1
+RewriteRule ^a.([a-zA-Z0-9_-]+)/$ indexa.php?profile_partyname=$1
+
+RewriteRule ^b.([a-zA-Z0-9_-]+)$ indexb.php?profile_partyname=$1
+RewriteRule ^b.([a-zA-Z0-9_-]+)/$ indexb.php?profile_partyname=$1
+
+RewriteRule ^c.([a-zA-Z0-9_-]+)$ indexc.php?profile_partyname=$1
+RewriteRule ^c.([a-zA-Z0-9_-]+)/$ indexc.php?profile_partyname=$1
+
+RewriteRule ^d.([a-zA-Z0-9_-]+)$ indexd.php?profile_partyname=$1
+RewriteRule ^d.([a-zA-Z0-9_-]+)/$ indexd.php?profile_partyname=$1
+
+RewriteRule ^e.([a-zA-Z0-9_-]+)$ indexe.php?profile_partyname=$1
+RewriteRule ^e.([a-zA-Z0-9_-]+)/$ indexe.php?profile_partyname=$1
+
+RewriteRule ^f.([a-zA-Z0-9_-]+)$ indexf.php?profile_partyname=$1
+RewriteRule ^f.([a-zA-Z0-9_-]+)/$ indexf.php?profile_partyname=$1
+
+RewriteRule ^g.([a-zA-Z0-9_-]+)$ indexg.php?profile_partyname=$1
+RewriteRule ^g.([a-zA-Z0-9_-]+)/$ indexg.php?profile_partyname=$1
+
+RewriteRule ^h.([a-zA-Z0-9_-]+)$ indexh.php?profile_partyname=$1
+RewriteRule ^h.([a-zA-Z0-9_-]+)/$ indexh.php?profile_partyname=$1
+
+RewriteRule ^i.([a-zA-Z0-9_-]+)$ indexi.php?profile_partyname=$1
+RewriteRule ^i.([a-zA-Z0-9_-]+)/$ indexi.php?profile_partyname=$1
+
+RewriteRule ^j.([a-zA-Z0-9_-]+)$ indexj.php?profile_partyname=$1
+RewriteRule ^j.([a-zA-Z0-9_-]+)/$ indexj.php?profile_partyname=$1
+
+RewriteRule ^k.([a-zA-Z0-9_-]+)$ indexk.php?profile_partyname=$1
+RewriteRule ^k.([a-zA-Z0-9_-]+)/$ indexk.php?profile_partyname=$1
+
+RewriteRule ^l.([a-zA-Z0-9_-]+)$ indexl.php?profile_partyname=$1
+RewriteRule ^l.([a-zA-Z0-9_-]+)/$ indexl.php?profile_partyname=$1
+
+RewriteRule ^m.([a-zA-Z0-9_-]+)$ indexm.php?profile_partyname=$1
+RewriteRule ^m.([a-zA-Z0-9_-]+)/$ indexm.php?profile_partyname=$1
+
+RewriteRule ^n.([a-zA-Z0-9_-]+)$ indexn.php?profile_partyname=$1
+RewriteRule ^n.([a-zA-Z0-9_-]+)/$ indexn.php?profile_partyname=$1
+
+RewriteRule ^o.([a-zA-Z0-9_-]+)$ indexo.php?profile_partyname=$1
+RewriteRule ^o.([a-zA-Z0-9_-]+)/$ indexo.php?profile_partyname=$1
+
+RewriteRule ^p.([a-zA-Z0-9_-]+)$ indexp.php?profile_partyname=$1
+RewriteRule ^p.([a-zA-Z0-9_-]+)/$ indexp.php?profile_partyname=$1
+
+
+RewriteRule ^q.([a-zA-Z0-9_-]+)$ indexq.php?profile_partyname=$1
+RewriteRule ^q.([a-zA-Z0-9_-]+)/$ indexq.php?profile_partyname=$1
+
+
+RewriteRule ^r.([a-zA-Z0-9_-]+)$ indexr.php?profile_partyname=$1
+RewriteRule ^r.([a-zA-Z0-9_-]+)/$ indexr.php?profile_partyname=$1
+
+
+RewriteRule ^t.([a-zA-Z0-9_-]+)$ indext.php?profile_partyname=$1
+RewriteRule ^t.([a-zA-Z0-9_-]+)/$ indext.php?profile_partyname=$1
+
+
+RewriteRule ^u.([a-zA-Z0-9_-]+)$ indexu.php?profile_partyname=$1
+RewriteRule ^u.([a-zA-Z0-9_-]+)/$ indexu.php?profile_partyname=$1
+
+
+RewriteRule ^v.([a-zA-Z0-9_-]+)$ indexv.php?profile_partyname=$1
+RewriteRule ^v.([a-zA-Z0-9_-]+)/$ indexv.php?profile_partyname=$1
+
+RewriteRule ^w.([a-zA-Z0-9_-]+)$ indexw.php?profile_partyname=$1
+RewriteRule ^w.([a-zA-Z0-9_-]+)/$ indexw.php?profile_partyname=$1
+
+
+RewriteRule ^x.([a-zA-Z0-9_-]+)$ indexx.php?profile_partyname=$1
+RewriteRule ^x.([a-zA-Z0-9_-]+)/$ indexx.php?profile_partyname=$1
+
+RewriteRule ^y.([a-zA-Z0-9_-]+)$ indexy.php?profile_partyname=$1
+RewriteRule ^y.([a-zA-Z0-9_-]+)/$ indexy.php?profile_partyname=$1
+
